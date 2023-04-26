@@ -15,7 +15,7 @@ It also predicts the associated base editing outcomes.
 The input data has been processed by PoolQ (Broad Institute, https://portals.broadinstitute.org/gpp/public/software/poolq) 
 
 
-## Citations
+## References
 1.	Hwang, G.-H. et al. Web-based design and analysis tools for CRISPR base editing. BMC Bioinformatics 19, 542 (2018).
 2.	Clement, K. et al. CRISPResso2 provides accurate and rapid genome editing sequence analysis. Nat Biotechnol 37, 224–226 (2019).
 3.	Gaudelli, N. M. et al. Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage. Nature 551, 464–471 (2017).
