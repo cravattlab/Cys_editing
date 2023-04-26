@@ -12,7 +12,7 @@ This code is used to design sgRNAs based on the PAM sequences and the base edito
 It also predicts the associated base editing outcomes.
 
 ## Base editing screen data analysis
-The input data has been processed by PoolQ (Broad Institute, https://portals.broadinstitute.org/gpp/public/software/poolq) 
+The raw fastq files should be processed by PoolQ first (Broad Institute, https://portals.broadinstitute.org/gpp/public/software/poolq).
 
 
 ## References
