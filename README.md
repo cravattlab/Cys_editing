@@ -18,3 +18,7 @@ The input data has been processed by PoolQ (Broad Institute, https://portals.bro
 ## Citations
 1.	Hwang, G.-H. et al. Web-based design and analysis tools for CRISPR base editing. BMC Bioinformatics 19, 542 (2018).
 2.	Clement, K. et al. CRISPResso2 provides accurate and rapid genome editing sequence analysis. Nat Biotechnol 37, 224–226 (2019).
+3.	Gaudelli, N. M. et al. Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage. Nature 551, 464–471 (2017).
+4.	Komor, A. C., Kim, Y. B., Packer, M. S., Zuris, J. A. & Liu, D. R. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage. Nature 533, 420–424 (2016).
+5.	Richter, M. F. et al. Phage-assisted evolution of an adenine base editor with improved Cas domain compatibility and activity. Nat Biotechnol 38, 883–891 (2020).
+6.	Thuronyi, B. W. et al. Continuous evolution of base editors with expanded target compatibility and improved activity. Nat Biotechnol 37, 1070–1079 (2019).
